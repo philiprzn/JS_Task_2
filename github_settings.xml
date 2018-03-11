@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="philiprzn" />
-    <option name="AUTH_TYPE" value="BASIC" />
-    <option name="CONNECTION_TIMEOUT" value="6000" />
-  </component>
-</application>
