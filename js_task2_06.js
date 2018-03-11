@@ -12,7 +12,8 @@ function isPrime(number) {
 }
 
 
-var number= 1;
+var number= 7;
+
 var isPrimeNumber = isPrime(number);
 
 if (isPrimeNumber == true){
