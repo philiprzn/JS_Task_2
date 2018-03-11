@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/philiprzn/EPAM_JS" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/philiprzn/JS_Task_2" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\User\Desktop\EPAM_JS\js_les_1" />
+    <option name="cloneParentDir" value="C:\Users\User\PhpstormProjects\JS_Task_2" />
   </component>
 </application>
