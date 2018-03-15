@@ -1,5 +1,4 @@
 var arr = [0, 1, 2, 3, 4, 5, null, 0, 'null'];
-var result = " ";
 
 
 function countNum(arg) {
